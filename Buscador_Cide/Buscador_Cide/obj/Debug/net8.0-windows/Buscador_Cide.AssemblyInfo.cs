@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora_sueldo")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Buscador_Cide")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+084c689baeed22e301d4535f21f8c199fdcf9511")]
-[assembly: System.Reflection.AssemblyProductAttribute("Calculadora_sueldo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Calculadora_sueldo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Buscador_Cide")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Buscador_Cide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
